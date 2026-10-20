@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\lab.1\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\lab.1\\gameengine.hpp",
+            "d:\\lab.1\\listener.hpp",
+            "d:\\lab.1\\renderer.hpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
